@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
-import com.vivek.testbase.Testbase;
+
 public class LoginPage   extends  Testbase{//  step 1 create  Constrcutor of  currrent class to intilize all objects elements 	
 	public WebDriver driver;
     public LoginPage(WebDriver driver) {
